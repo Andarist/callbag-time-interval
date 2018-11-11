@@ -1,6 +1,6 @@
 {
   "name": "callbag-time-interval",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag operator which emits the value with time elapsed since last emission.",
   "main": "./dist/callbag-time-interval.cjs.js",
   "module": "./dist/callbag-time-interval.esm.js",
